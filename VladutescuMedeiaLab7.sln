@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VladutescuMedeiaLab7", "VladutescuMedeiaLab7.csproj", "{4E427E46-7E8F-47BB-96B0-C3B3C3DCDDC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E427E46-7E8F-47BB-96B0-C3B3C3DCDDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E427E46-7E8F-47BB-96B0-C3B3C3DCDDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E427E46-7E8F-47BB-96B0-C3B3C3DCDDC1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4E427E46-7E8F-47BB-96B0-C3B3C3DCDDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E427E46-7E8F-47BB-96B0-C3B3C3DCDDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E427E46-7E8F-47BB-96B0-C3B3C3DCDDC1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC031D5-A720-4974-B2A0-41BEFC1B8332}
+	EndGlobalSection
+EndGlobal
